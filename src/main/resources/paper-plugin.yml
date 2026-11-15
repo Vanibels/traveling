@@ -1,0 +1,9 @@
+name: Grappin
+version: '${version}'
+
+main: fr.vanibels.grappin.Grappin
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ Vanibels ]
+website: https://vanil.cc/git
